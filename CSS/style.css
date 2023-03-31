@@ -1,0 +1,55 @@
+/* Import */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;1,300&family=Great+Vibes&family=Raleway:ital,wght@0,200;1,200&display=swap");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+body {
+
+	background-image: url("https://cdn.pixabay.com/photo/2017/06/20/17/15/wall-2423815_1280.jpg");
+	font-family: "Raleway", sans-serif;
+	font-size:17x;
+	margin: 0px;
+	text-align: justify;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Cormorant', serif;
+	margin: 15px;
+	text-align: center;
+}
+h1 {
+	font-family: "Raleway", sans-serif;
+	font-size:75px;
+	font-weight:700;
+	letter-spacing:revert-layer;
+	margin: 20px;
+
+}
+
+h2 {
+
+	font-size:35px;
+	font-weight:400;
+
+}
+
+a {
+	text-decoration:none;
+	color:darkgreen;
+	font-weight:bold;
+}
+a:hover {
+	color:rgb(50,50,50);
+}
+
+
+
+
